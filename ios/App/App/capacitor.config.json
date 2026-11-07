@@ -1,0 +1,14 @@
+{
+	"appId": "com.kuidacar.app",
+	"appName": "KuidaCar",
+	"webDir": "dist",
+	"packageClassList": [
+		"AppPlugin",
+		"DevicePlugin",
+		"GeolocationPlugin",
+		"LocalNotificationsPlugin",
+		"CAPNetworkPlugin",
+		"PreferencesPlugin",
+		"PushNotificationsPlugin"
+	]
+}
